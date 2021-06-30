@@ -1,1 +1,1 @@
-# JumpFrogy
+# MinJumps
